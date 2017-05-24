@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+$open-sans: 'Open Sans', sans-serif;
+
+body {
+  font-family: $open-sans;
+}
+
+.post-content {
+  font-size: 18px;
+  line-height: 180%;
+}
+
+.read-more {
+  display: block;
+  margin-top: 20px;
+}
+
+p, ol, ul {
+  margin-bottom: 22px;
+}

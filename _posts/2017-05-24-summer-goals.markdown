@@ -4,9 +4,9 @@ title:  "Goals For The Summer"
 date:   2017-05-23 22:00:00 -0500
 categories: jekyll update
 ---
-A blog?!  I know it's a bit 2005 of me, but take a chill pill and let me explain.
+A blog?!  I know it's a bit 2005, so take a chill pill and let me explain.
 
-I have some serious free time ahead of me this summer.  I'm talking [build a helicopter in your back yard][helicopter] in your back yard level shit.  And since I don't have a pilot's license (or for that matter a back yard) I figured it might be good to try and learn some new skills and contribute to society somehow.  
+I have some serious free time ahead of me this summer.  I'm talking [build a helicopter in your back yard][helicopter] after retirement level shit.  And since I don't have a pilot's license (or for that matter a back yard) I figured it might be good to try and learn some new skills and contribute to society, or something like that.  
 
 At the end of May, I'm moving to Washington D.C. to start a new job.  The catch is that the job doesn't start until mid June, which gives me 6 weeks to kick back and watch the price is right _every day_.  Except I hate the price is right, so I need a plan.
 
