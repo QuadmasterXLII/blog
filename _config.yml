@@ -16,8 +16,8 @@
 title: Brandon's blog
 email: brandonadavis@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Just another jekyll blog
-baseurl: "blog" # the subpath of your site, e.g. /blog
+  Just a guy in a new city doin' a new thing.
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://subdavis.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: subdavis
 github_username:  subdavis
